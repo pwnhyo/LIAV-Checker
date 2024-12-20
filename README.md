@@ -12,4 +12,4 @@ conda create -n LIAV_Checker python=3.10 pip install -r requirments.txt
 ## Usage
 ```
 export OPENAI_API_KEY=[Your_Key]
-python3 __main__.py -r [Target_Project_Folder] -a [Target_File (option)]  -l gpt```
+python3 __main__.py -r [Target_Project_Folder] -a [Target_File (option)]  -l gpt
